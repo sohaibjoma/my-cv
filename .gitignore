@@ -1,0 +1,21 @@
+# RenderCV output - keep only PDF and Markdown
+rendercv_output/*.png
+rendercv_output/*.typ
+rendercv_output/*.html
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+venv/
