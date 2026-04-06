@@ -15,7 +15,7 @@ cv:
       - "Skilled in Agile methodologies, collaborative teamwork, critical thinking, problem-solving, communication, adaptability, leadership, and time management. Consistently achieves up to 30% faster rendering times and 20% performance improvements across projects."
 
     Skills:
-      - "JavaScript, TypeScript, React.js, Next.js, React Native, Vue.js, Nuxt.js, HTML5, CSS3, SCSS, Bootstrap, Front-End Architecture, Responsive Design, Web Development, Engineering"
+      - "JavaScript, TypeScript, React.js, Next.js, React Native, Vue.js, Nuxt.js, HTML5, CSS3, SCSS, Bootstrap, GSAP, Front-End Architecture, Responsive Design, Web Development, Engineering"
       - "Python, C++, OOP, Object-Oriented Programming, Redux Toolkit, Pinia, Vuex, RESTful APIs, Axios, JSON, Git, GitHub, Webpack, Vite, Vercel, Debugging, VeeValidate"
       - "PWA, Shopify, Material-UI, Vuetify, Tailwind CSS, shadcn/ui, i18n, E-commerce, Software Engineering, UI, UX, UI/UX Design, ERP, Arabic, English, CSS3, Progressive Web Apps"
       - "Agile, teamwork, collaborative, communication, critical thinking, problem-solving, adaptability, leadership, time management, detail-oriented, analytical, progressive, dynamic, versatile, interpersonal skills"
@@ -67,6 +67,7 @@ cv:
           - "Optimized 20+ reusable UI components using JavaScript and CSS3, reducing development time by 40%."
 
     Projects:
+      - "**Onas Home:** High-performance furniture e-commerce platform engineered with Next.js and GSAP, delivering seamless UI animations, optimized state management, and 100% cross-device responsiveness."
       - "**Al-Tashirat Platform:** Bilingual Nuxt 3/Vuetify front-end with Pinia for 50+ components (30% fewer render cycles), secure Vue 3 admin dashboard for 12+ REST APIs, and 98% Lighthouse accessibility score."
       - "**SAHL Furniture:** React.js/Redux Toolkit e-commerce store processing 100+ products with Material-UI and Tailwind CSS responsive design across 5+ breakpoints."
 
