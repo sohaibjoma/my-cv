@@ -37,6 +37,14 @@ cv:
           - "Built Vue 3/Nuxt 3 applications boosting performance by 20%, integrating Axios across 8+ RESTful APIs with i18n support for 3 languages."
           - "Achieved 90% test coverage across 15+ components, measurably reducing production bug rate."
 
+      - company: Digital Egypt Pioneers Initiative (DEPI)
+        position: Front-End Developer Trainee
+        start_date: 2024-06
+        end_date: 2024-09
+        highlights:
+          - "Completed an intensive React.js training program under Egypt's Ministry of Communications and Information Technology, in cooperation with international tech companies."
+          - "Developed responsive web applications ensuring optimal performance and cross-device compatibility, managing state and integrating APIs via Git/GitHub."
+
       - company: Riadiat Company
         position: Front-End Developer
         start_date: 2024-08
