@@ -10,7 +10,7 @@ cv:
 
   sections:
     Summary:
-      - "Junior Front-End Developer with 1+ years of hands-on experience in Web Development, Software Engineering, and UI/UX Design. Proficient in JavaScript, TypeScript, React.js, Next.js, Vue.js, Nuxt.js, and React Native. Consistently delivers up to 30% faster rendering times and 20% performance improvements across projects. Experienced with Python and C++ for versatile problem-solving."
+      - "Junior Front-End Developer with 1+ years of progressive, agile experience in Web Development, Software Engineering, and UI/UX Design. Proficient in JavaScript, TypeScript, React.js, Next.js, Vue.js, Nuxt.js, and React Native. Proactive and critical thinker, consistently achieving up to 30% faster rendering times and 20% performance improvements. Experienced with Python and C++ for dynamic problem-solving."
 
     Experience:
       - company: NOCKTA
@@ -54,20 +54,9 @@ cv:
           - "Built bilingual Arabic and English interfaces using i18n and Nuxt.js, expanding client audience reach by 40%."
 
     Projects:
-      - name: Onas Home
-        date: "2025"
-        highlights:
-          - "High-performance furniture e-commerce platform built with Next.js and GSAP, delivering seamless UI animations, optimized state management, and 100% cross-device responsiveness."
-
-      - name: Al-Tashirat Platform
-        date: "2025"
-        highlights:
-          - "Bilingual Nuxt 3/Vuetify front-end with Pinia managing 50+ components with 30% fewer render cycles, and a secure Vue 3 admin dashboard integrated with 12+ REST APIs achieving a 98% Lighthouse accessibility score."
-
-      - name: SAHL Furniture
-        date: "2024"
-        highlights:
-          - "React.js/Redux Toolkit e-commerce store processing 100+ products with Material-UI and Tailwind CSS responsive design across 5+ breakpoints."
+      - "**Onas Home:** High-performance furniture e-commerce platform built with Next.js and GSAP, delivering seamless UI animations, optimized state management, and 100% cross-device responsiveness."
+      - "**Al-Tashirat Platform:** Bilingual Nuxt 3/Vuetify front-end with Pinia managing 50+ components with 30% fewer render cycles, and a secure Vue 3 admin dashboard integrated with 12+ REST APIs achieving a 98% Lighthouse accessibility score."
+      - "**SAHL Furniture:** React.js/Redux Toolkit e-commerce store processing 100+ products with Material-UI and Tailwind CSS responsive design across 5+ breakpoints."
 
     Education:
       - institution: Damietta University
