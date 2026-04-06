@@ -10,25 +10,25 @@ cv:
 
   sections:
     Summary:
-      - "Front-End Developer with 2+ years of experience. Phone: +20 1067813109. Email: sohaibjoma@gmail.com."
-      - "Collaborative and adaptable Front-End Developer with 2+ years of hands-on experience in Web Development, Software Engineering, and UI/UX Design. Proficient in JavaScript, TypeScript, React.js, Next.js, Vue.js, Nuxt.js, React Native, HTML5, CSS3, and SCSS. Experienced with Python and C++ for versatile problem-solving."
+      - "Junior Front-End Developer. Phone: +20 1067813109. Email: sohaibjoma@gmail.com."
+      - "Collaborative and adaptable Junior Front-End Developer with 1+ years of hands-on experience in Web Development, Software Engineering, and UI/UX Design. Proficient in JavaScript, TypeScript, React.js, Next.js, Vue.js, Nuxt.js, React Native, HTML5, CSS3, and SCSS. Experienced with Python and C++ for versatile problem-solving."
       - "Skilled in Agile methodologies, collaborative teamwork, critical thinking, problem-solving, communication, adaptability, leadership, and time management. Consistently achieves up to 30% faster rendering times and 20% performance improvements across projects."
 
     Skills:
       - "JavaScript, TypeScript, React.js, Next.js, React Native, Vue.js, Nuxt.js, HTML5, CSS3, SCSS, Front-End Architecture, Responsive Design"
       - "Python, C++, Object-Oriented Programming (OOP), Redux Toolkit, Pinia, Vuex, RESTful APIs, Axios, JSON, Git, GitHub, Debugging"
-      - "Webpack, Vite, PWA, Shopify, Material-UI, Vuetify, Tailwind CSS, Vercel, i18n, E-commerce, Software Engineering"
+      - "Webpack, Vite, PWA, Shopify, Material-UI, Vuetify, Tailwind CSS, shadcn/ui, Vercel, i18n, E-commerce, Software Engineering"
       - "Agile, collaborative, communication, critical thinking, problem-solving, adaptability, leadership, time management, teamwork, detail-oriented, analytical thinking"
 
-    Work History:
+    Experience:
       - company: NOCKTA
         position: Front-End Developer
         start_date: 2025-09
         end_date: present
         highlights:
-          - "Engineered 5+ scalable web applications using React.js, Next.js, and React Native, delivering high-performance cross-platform solutions with 40% improved load efficiency."
+          - "Engineered scalable web applications using React.js, Next.js, and React Native, delivering high-performance cross-platform solutions with 40% improved load efficiency."
           - "Developed and deployed Progressive Web Apps (PWA) and React/Shopify e-commerce integrations, ensuring 100% cross-device compatibility and reducing cart abandonment by 15%."
-          - "Collaborated with a 4-person engineering team using Agile sprints, consistently delivering features 10% ahead of schedule through strong communication and teamwork."
+          - "Collaborated with the team using Agile sprints, consistently delivering features 10% ahead of schedule through strong communication and teamwork."
           - "Implemented performance optimization techniques including code splitting, lazy loading, and memoization, reducing Time to Interactive by 1.8 seconds."
 
       - company: Rzain
@@ -84,7 +84,7 @@ cv:
 
     Education:
       - institution: Damietta University
-        area: Bachelor of Science in Computer Science
+        area: Bachelor of Agricultural Engineering
         end_date: 2024-06
 
 design:
