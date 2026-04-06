@@ -10,20 +10,7 @@ cv:
 
   sections:
     Summary:
-      - "Junior Front-End Developer. Phone: +20 1067813109. Email: sohaibjoma@gmail.com."
-      - "Collaborative and adaptable Junior Front-End Developer with 1+ years of hands-on experience in Web Development, Software Engineering, and UI/UX Design. Proficient in JavaScript, TypeScript, React.js, Next.js, Vue.js, Nuxt.js, React Native, HTML5, CSS3, and SCSS. Experienced with Python and C++ for versatile problem-solving."
-      - "Skilled in Agile methodologies, collaborative teamwork, critical thinking, problem-solving, communication, adaptability, leadership, and time management. Consistently achieves up to 30% faster rendering times and 20% performance improvements across projects."
-
-    Skills:
-      - "JavaScript, TypeScript, React.js, Next.js, React Native, Vue.js, Nuxt.js, HTML5, CSS3, SCSS, Bootstrap, GSAP, Front-End Architecture, Responsive Design, Web Development, Engineering"
-      - "Python, C++, OOP, Object-Oriented Programming, Redux Toolkit, Pinia, Vuex, RESTful APIs, Axios, JSON, Git, GitHub, Webpack, Vite, Vercel, Debugging, VeeValidate"
-      - "PWA, Shopify, Material-UI, Vuetify, Tailwind CSS, shadcn/ui, i18n, E-commerce, Software Engineering, UI, UX, UI/UX Design, ERP, Arabic, English, CSS3, Progressive Web Apps"
-      - "Agile, teamwork, collaborative, communication, critical thinking, problem-solving, adaptability, leadership, time management, detail-oriented, analytical, progressive, dynamic, versatile, interpersonal skills"
-
-    Education:
-      - institution: Damietta University
-        area: Bachelor of Agricultural Engineering
-        end_date: 2024-06
+      - "Junior Front-End Developer with 1+ years of hands-on experience in Web Development, Software Engineering, and UI/UX Design. Proficient in JavaScript, TypeScript, React.js, Next.js, Vue.js, Nuxt.js, and React Native. Consistently delivers up to 30% faster rendering times and 20% performance improvements across projects. Experienced with Python and C++ for versatile problem-solving."
 
     Experience:
       - company: NOCKTA
@@ -31,7 +18,7 @@ cv:
         start_date: 2025-09
         end_date: present
         highlights:
-          - "Constructed scalable React.js, Next.js, and React Native applications with 40% improved load efficiency and 100% cross-device compatibility."
+          - "Engineered scalable React.js, Next.js, and React Native applications achieving 40% improved load efficiency and 100% cross-device compatibility."
           - "Launched PWA and Shopify e-commerce integrations, reducing cart abandonment by 15% and Time to Interactive by 1.8 seconds."
 
       - company: Rzain
@@ -39,37 +26,68 @@ cv:
         start_date: 2025-06
         end_date: 2025-09
         highlights:
-          - "Architected a Vue.js/Pinia ERP system reducing state bugs by 35% and cutting integration errors by 25%."
-          - "Refactored 10+ components to Vue 3 Composition API, reducing technical debt by 30% and accelerating development by 20%."
+          - "Architected a Vue.js/Pinia ERP system reducing state management bugs by 35% and cutting integration errors by 25%."
+          - "Refactored 10+ components to Vue 3 Composition API, reducing technical debt by 30% and accelerating development velocity by 20%."
 
       - company: SolutionPlus Company
         position: Front-End Developer Intern
         start_date: 2025-01
         end_date: 2025-04
         highlights:
-          - "Built Vue 3/Nuxt 3 applications boosting performance by 20%, integrating Axios across 8+ APIs and i18n for 3 languages."
-          - "Attained 90% test coverage across 15+ components, measurably reducing production bugs."
-
-      - company: Freelance
-        position: Front-End Developer
-        start_date: 2024-01
-        end_date: present
-        highlights:
-          - "Shipped 5+ React.js applications accomplishing 95% client satisfaction and 2-second faster load times."
-          - "Delivered bilingual Arabic and English interfaces using i18n and Nuxt.js, expanding client reach by 40%."
+          - "Built Vue 3/Nuxt 3 applications boosting performance by 20%, integrating Axios across 8+ RESTful APIs with i18n support for 3 languages."
+          - "Achieved 90% test coverage across 15+ components, measurably reducing production bug rate."
 
       - company: Riadiat Company
         position: Front-End Developer
         start_date: 2024-08
         end_date: 2024-11
         highlights:
-          - "Crafted dynamic Vue 2/Vuex interfaces cutting load times by 1.5 seconds and improving Lighthouse score by 22 points."
+          - "Crafted dynamic Vue 2/Vuex interfaces cutting load times by 1.5 seconds and improving Lighthouse performance score by 22 points."
           - "Optimized 20+ reusable UI components using JavaScript and CSS3, reducing development time by 40%."
 
+      - company: Freelance
+        position: Front-End Developer
+        start_date: 2024-01
+        end_date: present
+        highlights:
+          - "Delivered 5+ React.js applications achieving 95% client satisfaction and 2-second faster average load times."
+          - "Built bilingual Arabic and English interfaces using i18n and Nuxt.js, expanding client audience reach by 40%."
+
     Projects:
-      - "**Onas Home:** High-performance furniture e-commerce platform engineered with Next.js and GSAP, delivering seamless UI animations, optimized state management, and 100% cross-device responsiveness."
-      - "**Al-Tashirat Platform:** Bilingual Nuxt 3/Vuetify front-end with Pinia for 50+ components (30% fewer render cycles), secure Vue 3 admin dashboard for 12+ REST APIs, and 98% Lighthouse accessibility score."
-      - "**SAHL Furniture:** React.js/Redux Toolkit e-commerce store processing 100+ products with Material-UI and Tailwind CSS responsive design across 5+ breakpoints."
+      - name: Onas Home
+        date: "2025"
+        highlights:
+          - "High-performance furniture e-commerce platform built with Next.js and GSAP, delivering seamless UI animations, optimized state management, and 100% cross-device responsiveness."
+
+      - name: Al-Tashirat Platform
+        date: "2025"
+        highlights:
+          - "Bilingual Nuxt 3/Vuetify front-end with Pinia managing 50+ components with 30% fewer render cycles, and a secure Vue 3 admin dashboard integrated with 12+ REST APIs achieving a 98% Lighthouse accessibility score."
+
+      - name: SAHL Furniture
+        date: "2024"
+        highlights:
+          - "React.js/Redux Toolkit e-commerce store processing 100+ products with Material-UI and Tailwind CSS responsive design across 5+ breakpoints."
+
+    Education:
+      - institution: Damietta University
+        area: Agricultural Engineering
+        degree: B.Sc.
+        end_date: 2024-06
+
+    Skills:
+      - label: "Front-End Development"
+        details: "JavaScript, TypeScript, React.js, Next.js, React Native, Vue.js, Nuxt.js, HTML5, CSS3, SCSS, Bootstrap, Tailwind CSS, GSAP, shadcn/ui, Material-UI, Vuetify"
+      - label: "State Management & APIs"
+        details: "Redux Toolkit, Pinia, Vuex, RESTful APIs, Axios, JSON, VeeValidate"
+      - label: "Tools & Platforms"
+        details: "Git, GitHub, Webpack, Vite, Vercel, Shopify, PWA, ERP, Responsive Design, Front-End Architecture, Web Development"
+      - label: "Other Languages"
+        details: "Python, C++, Object-Oriented Programming (OOP)"
+      - label: "Soft Skills"
+        details: "Agile, Collaborative, Communication, Critical Thinking, Problem-Solving, Adaptability, Leadership, Time Management, Detail-Oriented, Analytical, Creative, Self-Motivated, Organized, Dependable, Interpersonal Skills"
+      - label: "Languages"
+        details: "Arabic (Native), English (Professional Working Proficiency)"
 
 design:
   theme: classic
