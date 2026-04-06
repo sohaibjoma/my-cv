@@ -45,14 +45,6 @@ Currently, I'm focused on crafting seamless UI/UX experiences using **React, Nex
 
 ---
 
-### 📈 GitHub Stats
-
-![Sohaib's GitHub stats](https://github-readme-stats.vercel.app/api?username=sohaibjoma&show_icons=true&theme=transparent&hide_border=true&title_color=61DAFB&text_color=ffffff&icon_color=61DAFB)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sohaibjoma&layout=compact&theme=transparent&hide_border=true&title_color=61DAFB&text_color=ffffff)
-
----
-
 ### 📫 Let's Connect
 
 - **LinkedIn:** [linkedin.com/in/sohaibjoma](https://www.linkedin.com/in/sohaibjoma)
